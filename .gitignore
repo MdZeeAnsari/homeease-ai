@@ -1,0 +1,7 @@
+# local secrets: keep real keys/passwords out of git
+config/ai.local.php
+config/db.local.php
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/

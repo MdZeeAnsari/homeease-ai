@@ -1,0 +1,10 @@
+Put your Teachable Machine export here (TensorFlow.js > Download):
+  model.json
+  weights.bin
+  metadata.json
+
+Class names to use in Teachable Machine (exactly like this works best):
+  Plumbing, Electrical, AC, Appliance, Cleaning
+
+If these 3 files are present, the Photo diagnosis tab uses YOUR trained model.
+If not, it falls back to the pretrained MobileNet model.
