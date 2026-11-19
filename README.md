@@ -125,3 +125,7 @@ homeease/
 | Mohammed Abid Ali | 20241CSE1118 |
 
 B.Tech Computer Science & Engineering · Presidency University, Bengaluru
+
+## 📄 License
+
+MIT, see [LICENSE](LICENSE).
